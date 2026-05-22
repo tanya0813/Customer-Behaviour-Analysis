@@ -112,7 +112,7 @@ Use targeted marketing based on age groups and behavior
 
 Clone the repository
 
-Shellgit clone <repo-link>Show more lines
+git clone <Repolink>
 
 Run Jupyter Notebook for data cleaning
 Execute SQL queries in PostgreSQL
