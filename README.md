@@ -112,6 +112,6 @@ Optimize discount strategies to maintain profit margins
 Promote top-rated and best-selling products
 Use targeted marketing based on age groups and behavior
 
-✅ Conclusion
-**This project demonstrates a full data analytics workflow — from raw data cleaning to advanced business insights and visualization — helping organizations better understand customer behavior and improve decision-making.
-**
+**✅ Conclusion**
+This project demonstrates a full data analytics workflow — from raw data cleaning to advanced business insights and visualization — helping organizations better understand customer behavior and improve decision-making.
+
