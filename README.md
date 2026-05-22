@@ -111,9 +111,6 @@ Use targeted marketing based on age groups and behavior
 ▶️ How to Run
 
 Clone the repository
-
-git clone <Repolink>
-
 Run Jupyter Notebook for data cleaning
 Execute SQL queries in PostgreSQL
 Open .pbix file in Power BI Desktop
